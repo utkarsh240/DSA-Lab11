@@ -134,5 +134,8 @@ int main()
 }
 }
 
-
+OUTPUT
+ 1.Insert at rear end 2.Insert at front end 3.Delete from front end 4.Delete from rear end 5.Display 6.ExitEnter your choice 1
+Enter the element to be inserted 4
+Display 4
 
