@@ -83,3 +83,11 @@ void display()
             printf(" %d ", queue[i]);
     }
 }
+
+
+
+OUTPUT
+
+1. Enqueue 2. Dequeue 3. Display 4. Exit  Enter your choice: 1
+ Enter the item to be inserted: 4
+ Display 4
